@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainForm.cs](./CS/DxSample/MainForm.cs) (VB: [MainForm.vb](./VB/DxSample/MainForm.vb))**
+* [Event.cs](./CS/DxSample/PersistentObjects/Event.cs) (VB: [Event.vb](./VB/DxSample/PersistentObjects/Event.vb))
+* [CustomAppointment.cs](./CS/DxSample/Scheduler/CustomAppointment.cs) (VB: [CustomAppointmentFactory.vb](./VB/DxSample/Scheduler/CustomAppointmentFactory.vb))
+* [CustomAppointmentDataManager.cs](./CS/DxSample/Scheduler/CustomAppointmentDataManager.cs) (VB: [CustomAppointmentDataManager.vb](./VB/DxSample/Scheduler/CustomAppointmentDataManager.vb))
+* [CustomAppointmentFactory.cs](./CS/DxSample/Scheduler/CustomAppointmentFactory.cs) (VB: [CustomAppointmentFactory.vb](./VB/DxSample/Scheduler/CustomAppointmentFactory.vb))
+* [CustomAppointmentStorage.cs](./CS/DxSample/Scheduler/CustomAppointmentStorage.cs) (VB: [CustomAppointmentStorage.vb](./VB/DxSample/Scheduler/CustomAppointmentStorage.vb))
+* [CustomSchedulerStorage.cs](./CS/DxSample/Scheduler/CustomSchedulerStorage.cs) (VB: [CustomSchedulerStorage.vb](./VB/DxSample/Scheduler/CustomSchedulerStorage.vb))
+<!-- default file list end -->
 # How to copy items into the SchedulerStorage datasource via drag and drop
 
 
